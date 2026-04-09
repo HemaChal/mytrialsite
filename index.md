@@ -11,5 +11,5 @@ This is a sample homepage for my trial site. Here you can find various sections 
 ## About
 This section contains information about the site, its purpose, and what users can expect.
 
-## Contact
-Feel free to reach out for any queries or feedback!
+## Contactt
+Feel free to reach out for any queries or feedback! 
